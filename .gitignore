@@ -1,0 +1,50 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Build/package files
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environment/secrets
+.env
+
+# Python generated files
+*.log
+
+*.config.py
+python with harry/AI uses/config.py
+**/config.py
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code temporary files
+*tempCodeRunnerFile.py
+
+# Virtual environments
+venv/
+.venv/
+
+# Secrets
+**/config.py
+.env
+*.env
+
+# Generated PDF files
+python with harry/source code/1744462915908-Python+Course/21_projects/pdfmerger/*.pdf
